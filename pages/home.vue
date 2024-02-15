@@ -1,9 +1,8 @@
 <template>
-  <div>
-    <Navbar />
+  <Page>
     <h1>Home</h1>
-    <p>tempat halamane home</p>
-  </div>
+    <p>tempat halamane homeeee</p>
+  </Page>
 </template>
 
 <script>

@@ -1,14 +1,13 @@
 <template>
-  <div class="relative bg-gray-100">
-    <Navbar />
+  <Page>
     <div
-      class="flex justify-center items-top min-h-screen sm:items-center sm:pt-0"
+      class="relative flex w-full items-center justify-center"
     >
-      <div>
+      <div class="flex flex-col items-center justify-center">
         <h1>Robiul Tri Awali's Profile</h1>
       </div>
     </div>
-  </div>
+  </Page>
 </template>
 
 <script>

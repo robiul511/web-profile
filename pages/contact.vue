@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <Navbar />
+  <Page>
     <h1>Contact</h1>
-  </div>
+  </Page>
 </template>
 
 <script>

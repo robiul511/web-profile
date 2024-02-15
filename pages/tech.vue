@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <Navbar />
+  <Page>
     <h1>Tech</h1>
-  </div>
+  </Page>
 </template>
 
 <script>
